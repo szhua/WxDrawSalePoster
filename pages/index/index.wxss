@@ -1,0 +1,15 @@
+/* src/pages/xml2can/xml2can.wxss */
+
+.post-container {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.myimg{
+  width: 700rpx; 
+  height: 1200rpx; 
+}

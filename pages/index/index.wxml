@@ -1,0 +1,5 @@
+<view class="post-container">
+  <painter  customStyle='position: fixed; left: -9999rpx;' palette="{{template}}" bind:imgOK="onImgOK" widthPixels="1000"/>
+  <image src="{{image}}" class="myimg"/>
+  <button style='margin-top:50rpx' bind:tap='saveImage'>保存</button>
+</view>
